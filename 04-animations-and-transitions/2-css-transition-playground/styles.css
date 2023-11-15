@@ -2,6 +2,8 @@
     background: cornflowerblue;
     height: 100px;
     width: 100px;
+    transition: transform 1s ease-in,
+    background 2s ease-out;
 }
 
 .box:hover {
